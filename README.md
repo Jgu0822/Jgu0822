@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
+
+
+
+
+
+
+
+
 <!--
 **Jgu0822/Jgu0822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
