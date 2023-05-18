@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="center"> Skill </h2>
+<h2 align="center"> 🏝️ Skill </h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
